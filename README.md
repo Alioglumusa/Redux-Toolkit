@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/109859611/211821816-515e0f8f-14cd-4ef2-b180-852556545007.png)
-
+![ss](https://user-images.githubusercontent.com/109859611/211823071-545f4ecb-c66e-46f5-82e2-18dd0e441bf1.gif)
 
 # Redux Toolkit
 
